@@ -90,3 +90,4 @@ C:\Users\SAMSUNG\Desktop\Ayat\mvctodoapphomework-\MvcTodoApp\obj\Debug\net9.0\re
 C:\Users\SAMSUNG\Desktop\Ayat\mvctodoapphomework-\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.pdb
 C:\Users\SAMSUNG\Desktop\Ayat\mvctodoapphomework-\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.genruntimeconfig.cache
 C:\Users\SAMSUNG\Desktop\Ayat\mvctodoapphomework-\MvcTodoApp\obj\Debug\net9.0\ref\MvcTodoApp.dll
+C:\Users\SAMSUNG\Desktop\Ayat\mvctodoapphomework-\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.sourcelink.json
